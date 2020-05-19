@@ -11,6 +11,12 @@ YOLO can view an image and draw bounding over what it perceives as identified cl
 
 Source code: https://github.com/xiaochus/YOLOv3.
 
-## 
+## Experiment and Result
 
+In development...
 
+#
+
+<p align="center"><b>Sincerely:</b> <a href="https://github.com/neemiasbsilva">Neemias B. da Silva</a></p>
+
+#
